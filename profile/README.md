@@ -16,24 +16,9 @@
 
 A **NATIWO** é uma empresa brasileira de tecnologia com 6 anos de história, focada em democratizar o acesso a soluções empresariais de classe mundial para o mercado brasileiro.
 
+Fundada por uma mente neurodivergente, celebramos a neurodiversidade como fonte de inovação e criatividade. Acreditamos que pensar diferente é nossa maior força - é o que nos permite ver soluções onde outros veem problemas.
+
 Transformamos a complexidade em simplicidade, o caro em acessível, e o impossível em rotina.
-
-## 🚀 **Nossos Produtos**
-
-### NTW Tunnel 🔐
-Zero Trust Network Access que substitui VPNs tradicionais com **90% de economia**
-
-### NTW Shield 🛡️
-Web Application Firewall inteligente com proteção em tempo real
-
-### NTW Speed ⚡
-CDN e otimização de performance para aplicações globais
-
-### NTW Connect 🌐
-Gerenciamento de IoT em escala para milhares de dispositivos
-
-### NTW Bridge 🌉
-Modernização de sistemas legados sem refatoração
 
 ## 💡 **Nossos Diferenciais**
 
@@ -43,14 +28,11 @@ Modernização de sistemas legados sem refatoração
 - ✅ **Setup em Minutos** - Não meses
 - ✅ **Suporte via WhatsApp** - Atendimento humanizado
 
-## 💝 **A Família NATIWO**
+## 🐧 **Compromisso Open Source & Linux**
 
-Nossos assistentes AI homenageiam pessoas especiais:
+Acreditamos no poder da colaboração e do conhecimento livre. Contribuímos ativamente com a comunidade open source e utilizamos **Linux** como base de toda nossa infraestrutura.
 
-- **A.N.N.A** - System Guardian (Sabedoria)
-- **C.L.E.U** - Problem Solver (Força)
-- **D.U.D.U** - Innovation Engine (Energia)
-- **I.S.I.S** - Integration Master (Harmonia)
+O código aberto não é apenas uma escolha técnica - é uma filosofia que alinha com nossos valores de transparência, colaboração e democratização tecnológica. Parte do nosso código será liberado como open source para retribuir à comunidade que nos apoia.
 
 ## 📊 **Em Números**
 
@@ -62,6 +44,9 @@ Nossos assistentes AI homenageiam pessoas especiais:
 
 ## 🛠️ **Stack Tecnológica**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
