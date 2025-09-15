@@ -1,7 +1,7 @@
 # 🚀 NATIWO - Tecnologia Brasileira, Padrão Mundial
 
 <div align="center">
-  <img src="https://github.com/NatiwoSistemas/NATIWO/.github/profile/logo-natiwo-dark.svg" alt="NATIWO" width="200"/>
+  <img src="https://raw.githubusercontent.com/Natiwo/.github/main/profile/logo-natiwo-neutral.png" alt="NATIWO" width="200"/>
 
   **Ecossistema tecnológico completo para transformação digital de empresas brasileiras**
 
