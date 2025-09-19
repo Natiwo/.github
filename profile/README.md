@@ -1,12 +1,17 @@
-# <img src="https://raw.githubusercontent.com/Natiwo/.github/main/profile/logo-natiwo-neutral.png" alt="NATIWO" width="40" align="center"/> NATIWO - Building the Future with AI-Native Technology
-
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/Natiwo/.github/main/profile/logo-natiwo-neutral.png" alt="NATIWO" width="200"/>
+
+  # **NATIWO**
+  ### Building the Future with AI-Native Technology
+
+  <br/>
 
   [![Company](https://img.shields.io/badge/Founded-2019-green?style=flat-square)](https://natiwo.com.br)
   [![CNPJ](https://img.shields.io/badge/CNPJ-33.067.373%2F0001--39-blue?style=flat-square)](https://natiwo.com.br)
   [![Made in Brazil](https://img.shields.io/badge/Made%20in-Brazil%20🇧🇷-yellow?style=flat-square)](https://natiwo.com.br)
   [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)](https://github.com/Natiwo)
-  [![AI Native](https://img.shields.io/badge/AI-Native%20🤖-purple?style=flat-square)](https://natiwo.com.br)
+  [![AI Native](https://img.shields.io/badge/AI-Native%20🤖-orange?style=flat-square)](https://natiwo.com.br)
 
   **Enterprise-grade technology ecosystem democratizing access to world-class solutions**
 
@@ -146,6 +151,10 @@ graph LR
 
 Founded by a neurodivergent mind, we celebrate neurodiversity as a source of innovation and creativity. We believe that thinking differently is our greatest strength - it's what allows us to see solutions where others see problems.
 
+### ❤️ Personal Touch
+
+Claudiomar Estevam is moved by the love and strength of his grandmother and wants to leave this legacy to his great inspiration, his son.
+
 ### 💡 Our Philosophy
 
 - **🌍 Global Standards, Local Touch** - World-class technology with Brazilian soul
@@ -196,11 +205,12 @@ Founded by a neurodivergent mind, we celebrate neurodiversity as a source of inn
 ### **Cloud & Services**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### **AI Integration**
 ![Claude](https://img.shields.io/badge/Claude_AI-412991?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
 </div>
 
