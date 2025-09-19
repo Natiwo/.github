@@ -2,7 +2,6 @@
 
   <img src="https://raw.githubusercontent.com/Natiwo/.github/main/profile/logo-natiwo-neutral.png" alt="NATIWO" width="200"/>
 
-  # **NATIWO**
   ### Building the Future with AI-Native Technology
 
   <br/>
@@ -153,7 +152,7 @@ Founded by a neurodivergent mind, we celebrate neurodiversity as a source of inn
 
 ### ❤️ Personal Touch
 
-Claudiomar Estevam is moved by the love and strength of his grandmother and wants to leave this legacy to his great inspiration, his son.
+Claudiomar Estevam, NATIWO Founder, is moved by the love and strength of his grandmother and wants to leave this legacy to his great inspiration, his son.
 
 ### 💡 Our Philosophy
 
