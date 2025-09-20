@@ -303,12 +303,6 @@ We believe in the power of community and open source. Here's how you can get inv
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/Natiwo?style=social)](https://github.com/Natiwo)
-[![Follow](https://img.shields.io/github/followers/Natiwo?style=social)](https://github.com/Natiwo)
-[![Twitter](https://img.shields.io/twitter/follow/natiwo_tech?style=social)](https://twitter.com/natiwo_tech)
-
-<br/>
-
-**© 2019-2024 NATIWO Technology. All rights reserved.**
+**© 2019-2025 NATIWO Technology. All rights reserved.**
 
 </div>
